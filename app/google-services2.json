@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "415084083243",
+    "firebase_url": "https://slove-8fe3e.firebaseio.com",
+    "project_id": "slove-8fe3e",
+    "storage_bucket": "slove-8fe3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415084083243:android:dea77df53b2e8b3f",
+        "android_client_info": {
+          "package_name": "com.snapit.genia.snapit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415084083243-b20l8k714q8d52v1jui31eduvo1ant1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDGjPCL0aquXWbgpweWhMdKqp8REYoS1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

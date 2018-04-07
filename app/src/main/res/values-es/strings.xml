@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Mensajes</string>
+    <string name="hello_album">Álbum</string>
+    <string name="hello_messages">Mensajes</string>
+    <string name="hello_home">Inicio</string>
+    <string name="delete">BORRAR</string>
+    <string name="album_hide">Ocultar Album</string>
+    <string name="album_delete">Borrar Álbum</string>
+    <string name="delete_album_dialog">Borrar Album?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialog_ok">Vale</string>
+    <string name="dialog_album_hide">El Álbum ha sido enviado a la zona secreta</string>
+    <string name="album_unhide">Desocultar Álbum</string>
+    <string name="dialog_album_unhide">El Álbum se ha movido a la zona de Álbumes</string>
+    <string name="finding">Buscando un Snapter increible para ti...</string>
+    <string name="taken">Este nombre de usuario ya esta en uso</string>
+    <string name="username_length">Tu usuario debe tener al menos 4 carácteres</string>
+    <string name="start">EMPEZAR</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="skip">OMITIR</string>
+    <string name="registering">Registrando...</string>
+    <string name="tittle_profile">Perfil</string>
+    <string name="enter_password">Introduce tu Contraseña</string>
+    <string name="failpass">Contraseña Incorrecta, intentalo de nuevo</string>
+    <string name="password_match">Las contraseñas deben coincidir y tener al menos 5 carácteres</string>
+    <string name="exithide">Salir del modo Secreto?</string>
+    <string name="your_message">Tu mensaje...</string>
+    <string name="dialog_unfollow">"De verdad quieres romper con "</string>
+    <string name="pass_empty">La contraseña no puede estar vacía</string>
+    <string name="pass_lenght">La contraseña debe tener más de 4 carácteres</string>
+    <string name="dialog_delete">Estas seguro?</string>
+    <string name="empty_album">Aún no tienes ningun Snap, EMpieza ahora!</string>
+    <string name="empty_album_hidemode">Aquí encontrarás los álbumes secretos, envía uno interesante</string>
+    <string name="block">bloquear</string>
+    <string name="photos">fotos</string>
+</resources>

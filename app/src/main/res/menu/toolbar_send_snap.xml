@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_send_snap" android:icon="@drawable/ic_party_mode_black_24dp"   android:orderInCategory="500" android:title="Send" app:showAsAction="always"/>
+
+</menu>

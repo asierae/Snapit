@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name" translatable="false">Snapit</string>
+    <string name="title_home">Messages</string>
+    <string name="title_dashboard" translatable="false">SnapIt!</string>
+    <string name="title_notifications" translatable="false">Snaps</string>
+    <string name="tittle_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_album">Album</string>
+    <string name="hello_messages">Messages</string>
+    <string name="hello_home">Home</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="album_hide">Hide Album</string>
+    <string name="empty_album">You have not any Snaps yet, start Snaping!</string>
+    <string name="empty_album_hidemode">You have not any Secret Album yet,send a cool one here</string>
+    <string name="album_unhide">UnHide Album</string>
+    <string name="dialog_album_hide">Album has been sent to secret Albums zone</string>
+    <string name="dialog_album_unhide">Album has been sent to main Albums zone</string>
+    <string name="transition_to_fullscreen" translatable="false">ImageFS</string>
+    <string name="album_delete">Delete</string>
+    <string name="finding">Finding Awesonme Snapter for you...</string>
+    <string name="registering">Registering...</string>
+    <string name="enter_password">Enter your Password:</string>
+    <string name="failpass">You enter an invalid Password,try again</string>
+    <string name="password_match">Passwords must match and have at least 5 characters</string>
+    <string name="delete_album_dialog">Confirm delete Album?</string>
+    <string name="exithide">Exit from secret mode?</string>
+    <string name="url" translatable="false">https://geniacorex.000webhostapp.com</string>
+    <string name="kpublic" translatable="false">AAAAB3NzaC1yc2EAAAABJQAAAQEA1i0xYrUBTGcUzEP5tJa1zRX3RuD0moPYvuDx
+h7Sj4Tm7IcHO2sKQyOALeY13zziao6/1HdIct7hgc3+BOW8Fi2K0CrOlKLVKJIeV
+XxjrFLi7im6tLk7J9tmkqehGLoXhjML4gShdWkhF9h3TsFO9+cBma2Cqd+EAl5nZ
+ieaZnIt4CtJn5uOG0LK2O9B5nKrpGfiLNlGzysCSuGn8ByqbJ81HUtCooFgFZWqN
+P/fxtEbz51Hy8raM4qwac9/W1HuDqC+wJkugfW6RRUX70Vr7cZ47MFyh5LkfUrtq
+K2r1XKFrQEgbMH3/aBrWd5R5VSUNkhrN+/AFU9n3S2k8lzQbsw==</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <!-- Welcome Slider Strings-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+
+    <string name="slide_1_title">Hello SnapIt!</string>
+    <string name="slide_1_desc">The easiest way to meet new people and places with the art of photography</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">4 chars min.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="taken">Username already taken</string>
+    <string name="username_length">Username must have between 4-12 characters lenght</string>
+    <string name="your_message">Your message...</string>
+    <string name="unlove">unlove</string>
+    <string name="dialog_unfollow">You really want to break with</string>
+    <string name="pass_empty">Password cant be empty</string>
+    <string name="pass_lenght">Password must have more than 4 characters</string>
+    <string name="dialog_delete">Are you sure?</string>
+    <string name="block">block</string>
+    <!-- AdMOB-->
+    <string name="admobkey">ca-app-pub-3200350206604176~7747991106</string>
+    <string name="adMob_intersitial_key_1">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="adMob_videoReward_key_1">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="adMob_banner_key_1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="photos">photos</string>
+</resources>

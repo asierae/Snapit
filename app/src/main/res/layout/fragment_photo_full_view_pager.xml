@@ -1,0 +1,40 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.snapit.genia.snapit.PhotoFullViewPagerFragment"
+    android:background="@android:color/black"
+    >
+    <TextView
+        android:id="@+id/tv_viewpager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="@android:color/white"
+        />
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager_photofull"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="15dp"
+         />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ll_message_photofull"
+    android:background ="#88676767"
+    android:layout_gravity="bottom"
+    android:layout_marginBottom="60dp"
+    >
+
+    <TextView
+        android:id="@+id/tv_message_photofull"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+</LinearLayout>
+</FrameLayout>

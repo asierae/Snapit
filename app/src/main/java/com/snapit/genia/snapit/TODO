@@ -1,0 +1,46 @@
+Develop
+----------
+Corregir pedir permisos al iniciar camara
+Boton de report, cada 10 reports block 3 dias
+Añadir en loadmoreOnScroll
+Mirar en app efectos a añadir en favoritos
+Corregir el swipetorefresh en photoalbumfragment da problemas con el collapsingtoolbar (appBarLayout.addOnOffsetChangedListener mirar que este abierta)
+Añadir efecto focus out en la imagen de fondo de login
+Usar alguna animacion de la libreria android-lottie
+Transition animation between fragments con el imageview de AlbumPhotosd a PhotoFullscreen
+Añadir RSA encrypt al hacer los POST a la API(manual en marcadores 3 pestañas ultimas)
+Corregir numero de fotos de cada album, al añadir y borrar nuevas
+Terminar Traducciones(Click derecho strings.xml/open traslator editor )
+Mejorar el diseño
+Añadir publicidad de videos cada 3 snaps
+Añadirle Proguard al compilar la APK http://droidmentor.com/secure-apk-using-proguard/
+barra actionmode en collapsing toolbar
+
+Future
+------
+cambiar nombre a SLoVe
+
+Finished
+--------
+Multiselection para delete
+Nuevo fragment para los hides(DesOcultar Album/BorrarAlbum)
+Añadir el registro del username al entrar por primera vez (getsharedpreferences) con la generacion de la apikey para las peticiones en el server
+Añadir un firsttime app open con slides
+Corregir el back <-
+Añadir que las fotos se separen por carpetas de cada usuario en la api uploadfile.php
+Añadir posibilidad de enviar texto junto a la imagen
+Aádir pestaña de perfil(androidhive)
+Añadir Compartir imagen en fullscreenphoto
+Swipe Down to Refreesh, y salvar estado de los fragments
+Corregir que la foto se vea bien en el ImageView(Subir la foto como File en el POST)
+ImageViews Zoomables
+
+Notes
+------
+Circular ImageView
+Glide.with(this)
+        .load("http://via.placeholder.com/300.png")
+        .bitmapTransform(new CropCircleTransformation(context))
+        .into(ivImg);
+
+    compile 'jp.wasabeef:glide-transformations:2.0.2'
